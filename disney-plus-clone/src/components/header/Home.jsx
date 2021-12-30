@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import Movies from "../Movies";
 import CarouselComponent from "./CarouselComponent";
 import Viewers from "./Viewers";
 
@@ -8,6 +9,7 @@ function Home() {
     <Container>
       <CarouselComponent />
       <Viewers />
+      <Movies />
     </Container>
   );
 }
