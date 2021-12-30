@@ -1,5 +1,4 @@
 import React from "react";
-import "./Header.css";
 import styled from "styled-components";
 
 function Header() {
@@ -46,6 +45,7 @@ const Nav = styled.nav`
   display: flex;
   align-items: center;
   padding: 0 40px;
+  overflow-x: hidden;
 `;
 
 const Logo = styled.img`
@@ -55,13 +55,13 @@ const Logo = styled.img`
 const NavMenu = styled.div`
   display: flex;
   flex: 1;
-  margin-left: 20px;
+  margin-left: 40px;
   align-items: center;
 
   a {
     display: flex;
     align-items: center;
-    padding: 0 12px;
+    padding: 0 25px;
     cursor: pointer;
 
     img {
