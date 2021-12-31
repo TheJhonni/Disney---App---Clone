@@ -125,10 +125,18 @@ const AddButton = styled.button`
     font-size: 30px;
     color: white;
   }
+
+  &:hover {
+    background: rgb(198, 198, 198);
+  }
 `;
 
 const GroupWatchButton = styled(AddButton)`
   background: rgb(0, 0, 0);
+
+  &:hover {
+    background: rgb(198, 198, 198);
+  }
 `;
 
 const Subtitle = styled.div`
@@ -138,4 +146,9 @@ const Subtitle = styled.div`
   margin-top: 20px;
 `;
 
-const Description = styled(Subtitle)``;
+const Description = styled(Subtitle)`
+  line-height: 1.5;
+  font-size: 21px;
+  margin-top: 16px;
+  color: rgb(249, 249, 249);
+`;
