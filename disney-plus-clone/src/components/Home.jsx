@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Movies from "../Movies";
+import Movies from "./Movies";
 import CarouselComponent from "./CarouselComponent";
 import Viewers from "./Viewers";
 
