@@ -32,7 +32,7 @@ function Header() {
         </a>
       </NavMenu>
 
-      <UserImg src="https://media-exp1.licdn.com/dms/image/C4D03AQFelGWx6TXTMA/profile-displayphoto-shrink_200_200/0/1609341273239?e=1646265600&v=beta&t=foEl3lzi8VHQlhN2VWBKIUMx7tln0UtggwAsS6w-nF8" />
+      <UserImg src="https://media-exp1.licdn.com/dms/image/C4E03AQEgNFJ49Vnc1w/profile-displayphoto-shrink_200_200/0/1642584038544?e=1648684800&v=beta&t=iK02Iics2F6gDj1GDAvbUz-NjwC6FTR9wxIV0UIIy2w" />
     </Nav>
   );
 }
@@ -82,7 +82,7 @@ const NavMenu = styled.div`
         right: 0;
         bottom: -6px;
         opacity: 0;
-        transform.origin: left center;
+        transform-origin: left center;
         transition: all 250ms cubic-bezier(0.25, 0.46, 0.45, 0.95) 0s;
         transform: scaleX(0);
       }
