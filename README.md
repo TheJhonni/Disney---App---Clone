@@ -16,6 +16,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+# Homepage
+
+![Homepage](Homepage.jpg.jpeg)
+
+# Login-Page
+
+![Login-Page](Login-Page.png.jpeg)
+
+# Detail-page
+
+![Detail-page](Detail-page.jpg.jpeg)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
