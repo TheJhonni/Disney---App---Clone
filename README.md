@@ -4,6 +4,19 @@ Disney site Clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Homepage
+
+![Homepage](Homepage.jpg.jpeg)
+
+# Login-Page
+
+![Login-Page](Login-Page.png.jpeg)
+
+# Detail-page
+
+![Detail-page](Detail-page.jpg.jpeg)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -16,17 +29,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-# Homepage
-
-![Homepage](Homepage.jpg.jpeg)
-
-# Login-Page
-
-![Login-Page](Login-Page.png.jpeg)
-
-# Detail-page
-
-![Detail-page](Detail-page.jpg.jpeg)
 
 ### `npm test`
 
